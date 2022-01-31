@@ -1,0 +1,11 @@
+{
+  "name": "chat-app-websocket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AdamBecker85/chat-app-websocket.git",
+  "author": "Adam Becker <amkbecker@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
