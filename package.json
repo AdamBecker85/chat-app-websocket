@@ -6,6 +6,7 @@
   "author": "Adam Becker <amkbecker@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "socket.io": "2.2.0"
   }
 }
